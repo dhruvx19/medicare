@@ -1,39 +1,17 @@
-# Obliviate :gem:
+# MediCare :gem:
 **_You can close your eyes to reality but not to memories._**
 
 ### Domain 
       
       -App Development
-### Tech Stack 
 
-      -Flutter:
-          version: 1.0.0+1
-          environment:
-                sdk: ">=2.15.0 <3.0.0"
-                
-      -Flutter packages:
-          transparent_image: ^2.0.0
-          kommunicate_flutter: ^1.1.6
-          fluttertoast: ^8.0.8
-          rflutter_alert: ^2.0.4
-          expandable: ^5.0.1
-          url_launcher: ^6.0.17
-          image_picker: ^0.8.4+4
-          flutter_phone_direct_caller: ^2.1.0
-          
-      -Firebase:
-           firebase_auth: ^3.3.4
-           cloud_firestore: ^3.1.5
-           firebase_core: ^1.10.0
-           firebase_storage: ^10.2.4
-
-## Our Problem  ❔
+## Problem  ❔
 We are a composite of a life experiences with memory laid upon memory. We develop a personality of who we are and a place for ourselves in this world.
 **_But what will you do when your one cherished memories are gone forever?_** 
 Over 55 million people worldwide are living with Alzheimer's as per the 2021 statistics.
  The most common form of dementia leads to progressive cognitive decline beginning with impaired memory. They are robbed of their memory like missing pieces of a puzzle. Affecting their intellectual functions and may lead to complete dependence for basic daily life functions. Names, date and places they have known so far in their entire life fades into mists of non recognition.
 
-## Our Solution :bulb:
+## Solution :bulb:
 Introducing Obliviate a mobile application through this app we aim to cater with this very destructive, irreversible and progressive disease. We are using the power of handiest gadget mobile phone  to serve people suffering with Alzheimer’s.The central idea behind this project is to create an Android application that can not only assist the patient but can also help the caregivers. So the android application we have developed will assist and help the patients and will allow the caregivers to manage the routine of patients effectively. 
 
 ## Features:
@@ -74,58 +52,3 @@ This is the Family Gallery in which the patient can store the pictures and names
 
 * A floating Action Button: This opens up a locations screen which contains the location of the house and various places. Tapping on the locations redirects to the corresponding location on the google map. This helps the Alzheimer patients to keep a track of the important locations so that they won't get lost. 
 
-
-### UI/UX :
-
-https://user-images.githubusercontent.com/91636803/148514454-ad33acf1-25a9-41e1-8e84-820d18420b5e.mp4
-
-
-
-### Scope Of Impovement:
-   * Add a voice navigation Facility to navigate around the app.
-   * Use Face recognition system to open the app.
-   
-
-
-
-### How to run :
-
-**_1) Make sure Flutter is installed in your Device._**[Help]( https://docs.flutter.dev/get-started/install)
-
-**_2) Set-up your IDE. Prefer Android Studio._**[Help](https://developer.android.com/studio)
-
-**_3) Clone the repository._**
-
-        -git clone https://github.com/shamvi-05/Obliviate.git
-
-**_4) Open in Android studio using git version control._**
-
-**_5) Pub get the pubspec.yaml file._**
-          
-          -Run command in your terminal: pub get
-**_6) Run the file in your emulator._**
-
-
-
-
-
-## APP DEMO 
-
-
-   https://user-images.githubusercontent.com/78691639/150638603-6d010801-e469-4775-8930-5d2d83827368.mov
-
-
-### [ App-Demonstration Link - Click Here for more info](https://youtu.be/zKJ_SAC2948)
-
-
-
-### Team-Duck Debuggers 🐤
- [**AIN FATIMA**](https://github.com/clary09)
-
-[**RIYA SINGH**](https://github.com/Riy-a)
-
-[**SHAMBHAVI SINGH**](https://github.com/shamvi-05)
-
-
-
-![Last commit Activity](https://img.shields.io/github/last-commit/clary09/Obliviate) 
