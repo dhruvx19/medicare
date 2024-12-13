@@ -1,9 +1,5 @@
-# MediCare :gem:
-**_You can close your eyes to reality but not to memories._**
+# MediCare:
 
-### Domain 
-      
-      -App Development
 
 ## Problem  ❔
 We are a composite of a life experiences with memory laid upon memory. We develop a personality of who we are and a place for ourselves in this world.
